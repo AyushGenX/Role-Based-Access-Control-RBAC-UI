@@ -24,6 +24,7 @@ To set up the project, follow these steps:
    ```bash
    npm install
    ```
+   
 
 3. Start the development server:
    ```bash
@@ -44,4 +45,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, please reach out to [Your Name] at [Your Email].
+For any inquiries, please reach out to [Ayush Chaudhary] at [Ayushchaudhary9570@gmail.com ].
